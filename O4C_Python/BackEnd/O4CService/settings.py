@@ -154,9 +154,9 @@ CORS_ORIGIN_ALLOW_ALL = True
 #SEND_BROKEN_LINK_EMAILS = True
 
 EMAIL_BACKEND = 'django_smtp_ssl.SSLEmailBackend'
-EMAIL_HOST = 'send.one.com'
-EMAIL_HOST_USER = 'no-reply@opendatalab.eu'
-EMAIL_HOST_PASSWORD = 'dataproces'
+EMAIL_HOST = 'yourhost'
+EMAIL_HOST_USER = 'account@mail.com'
+EMAIL_HOST_PASSWORD = '****'
 EMAIL_PORT = 465
 EMAIL_USE_TLS = True
 #To be changed when updating to OAuth2 (maybe) 
