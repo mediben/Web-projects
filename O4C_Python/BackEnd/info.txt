@@ -1,3 +1,0 @@
-#requirement.txt is generated via : 
-#----pip install pipreqs
-#----pipreqs /path/to/project
