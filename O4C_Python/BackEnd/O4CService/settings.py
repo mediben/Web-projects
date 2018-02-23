@@ -102,19 +102,6 @@ DATABASES = {
         'PORT': '3306',
     }
 }
-"""
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'datalab_open',               
-        'USER': 'isd',                       
-        'PASSWORD': '12tf56so',                      
-        'HOST': 'alice-o4c.intranet.dataproces.dk',
-        'PORT': '3306',
-    }
-} 
-"""
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.9/ref/settings/#auth-password-validators
