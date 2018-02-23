@@ -8,6 +8,7 @@ STATUS_CHOICES = (
 )
 
 
+
 TITLE_CHOICES = (
     ('executive', 'EXECUTIVE'),
     ('manager', 'MANAGER'),
