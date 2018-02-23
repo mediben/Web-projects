@@ -1,0 +1,12 @@
+date start,date end,type,taxon name es,taxon name en,current,forecast es,forecast en,latitude,longitude,city
+05-09-2016,11-09-2016,pollens,Parietaria,Wall Pellitory,2,Estable,Stable,41.393728,2.16,Barcelona
+05-09-2016,11-09-2016,pollens,Gramíneas,Gramineae,1,Estable,Stable,41.393728,2.164,Barcelona
+05-09-2016,11-09-2016,pollens,Olivo,Olive tree,0,Estable,Stable,41.393728,2.1732,Barcelona
+05-09-2016,11-09-2016,pollens,Ambrosía-Bardana,Ambrosia-Xanthium,0,Estable,Stable,41.393728,2.168,Barcelona
+05-09-2016,11-09-2016,pollens,Artemisia,Australian pine,1,Estable,Stable,41.393728,2.176,Barcelona
+05-09-2016,11-09-2016,pollens,Casuarina,Chenopodiaceae/Amaranthaceae,1,Estable,Stable,41.393728,2.1916,Barcelona
+05-09-2016,11-09-2016,pollens,Céñigos,Mugwort,1,Estable,Stable,41.393728,2.1625,Barcelona
+05-09-2016,11-09-2016,pollens,Llantén,Palms,1,Estable,Stable,41.393728,2.185,Barcelona
+05-09-2016,11-09-2016,pollens,Palmeras,Plantain,1,Estable,Stable,41.393728,2.17,Barcelona
+05-09-2016,11-09-2016,spores,Alternaria,Alternaria,2,Estable,Stable,41.393728,2.169,Barcelona
+05-09-2016,11-09-2016,spores,Cladosporium,Cladosporium,3,Estable,Stable,41.393728,2.18,Barcelona
